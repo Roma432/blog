@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'ru-ru'
 
-TIME_ZONE = 'UTC Asia/Bishkek'
+TIME_ZONE = 'Asia/Bishkek'
 
 USE_I18N = True
 
